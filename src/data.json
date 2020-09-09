@@ -2,7 +2,7 @@
     {
         "id": 0,
         "title": "Название сериала",
-        "picture": "/src/img/image.jpg",
+        "picture": "/innova/src/img/image.jpg",
         "desc": {
             "seasons": 4,
             "series": 7,
@@ -15,7 +15,7 @@
     {
         "id": 1,
         "title": "Название сериала",
-        "picture": "/src/img/image.jpg",
+        "picture": "/innova/src/img/image.jpg",
         "desc": {
             "seasons": 2,
             "series": 8,
@@ -28,7 +28,7 @@
     {
         "id": 2,
         "title": "Название сериала",
-        "picture": "/src/img/image.jpg",
+        "picture": "/innova/src/img/image.jpg",
         "desc": {
             "seasons": 3,
             "series": 6,
@@ -41,7 +41,7 @@
     {
         "id": 3,
         "title": "Название сериала",
-        "picture": "/src/img/image.jpg",
+        "picture": "/innova/src/img/image.jpg",
         "desc": {
             "seasons": 3,
             "series": 7,
@@ -54,7 +54,7 @@
     {
         "id": 4,
         "title": "Название сериала",
-        "picture": "/src/img/image.jpg",
+        "picture": "/innova/src/img/image.jpg",
         "desc": {
             "seasons": 4,
             "series": 5,
@@ -67,7 +67,7 @@
     {
         "id": 5,
         "title": "Название сериала",
-        "picture": "/src/img/image.jpg",
+        "picture": "/innova/src/img/image.jpg",
         "desc": {
             "seasons": 2,
             "series": 7,
@@ -80,7 +80,7 @@
     {
         "id": 6,
         "title": "Название сериала",
-        "picture": "/src/img/image.jpg",
+        "picture": "/innova/src/img/image.jpg",
         "desc": {
             "seasons": 5,
             "series": 7,
@@ -93,7 +93,7 @@
     {
         "id": 7,
         "title": "Название сериала",
-        "picture": "/src/img/image.jpg",
+        "picture": "/innova/src/img/image.jpg",
         "desc": {
             "seasons": 5,
             "series": 8,
@@ -106,7 +106,7 @@
     {
         "id": 8,
         "title": "Название сериала",
-        "picture": "/src/img/image.jpg",
+        "picture": "/innova/src/img/image.jpg",
         "desc": {
             "seasons": 2,
             "series": 8,
@@ -119,7 +119,7 @@
     {
         "id": 9,
         "title": "Название сериала",
-        "picture": "/src/img/image.jpg",
+        "picture": "/innova/src/img/image.jpg",
         "desc": {
             "seasons": 4,
             "series": 7,

@@ -404,7 +404,7 @@ a {
 
 .parent-menu li a::before {
   content: '';
-  background: url("/src/img/left.svg");
+  background: url("/innova/src/img/left.svg");
   background-position: center center;
   position: absolute;
   top: 8px;
@@ -589,7 +589,7 @@ body {
 }
 
 .serial .picture .overlay .top .like-button {
-  background: url("/src/img/like.svg") no-repeat;
+  background: url("/innova/src/img/like.svg") no-repeat;
   background-position: center center;
   height: 100%;
   width: 40px;
@@ -598,11 +598,11 @@ body {
 }
 
 .serial .picture .overlay .top .like-button.active {
-  background: url("/src/img/liked.svg") no-repeat;
+  background: url("/innova/src/img/liked.svg") no-repeat;
 }
 
 .serial .picture .overlay .body {
-  background: url("/src/img/play.svg") no-repeat;
+  background: url("/innova/src/img/play.svg") no-repeat;
   background-position: center center;
   background-size: contain;
   height: 50px;
@@ -648,7 +648,7 @@ body {
 
 .serial .like .likes::before {
   content: '';
-  background: url("/src/img/likes.svg");
+  background: url("/innova/src/img/likes.svg");
   background-position: center center;
   display: inline-block;
   margin-right: .5rem;
@@ -658,7 +658,7 @@ body {
 
 .serial .like .dislikes::before {
   content: '';
-  background: url("/src/img/likes.svg");
+  background: url("/innova/src/img/likes.svg");
   background-position: center center;
   display: inline-block;
   margin-right: .5rem;
@@ -685,7 +685,7 @@ body {
   right: 20px;
   height: 32px;
   width: 32px;
-  background: url("/src/img/burger.svg") no-repeat;
+  background: url("/innova/src/img/burger.svg") no-repeat;
   background-position: center center;
   z-index: 100;
   cursor: pointer;

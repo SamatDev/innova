@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Test work</title>
+    <link rel="stylesheet" href="./src/style/style.css">
+</head>
+<body>
+    <div class="main">
+        <!-- sidebar -->
+        <div class="burger"></div>
+        <div class="sidebar">
+            <div class="close">&times;</div>
+            <div class="menu">
+                <ul class="parent-menu">
+                    <li class="tapble active">
+                        <a href="#">Действия</a>
+                        <ul class="child-menu">
+                            <li>Просмотры</li>
+                            <li class="active">Избранное</li>
+                            <li>Отложенное</li>
+                        </ul>
+                    </li>
+                    <li class="tapble">
+                        <a href="#">Тарифы</a>
+                        
+                        <ul class="child-menu">
+                            <li>Item 1</li>
+                            <li>Item 2</li>
+                            <li>Item 3</li>
+                        </ul>
+                    </li>
+                    <li>Настройки</li>
+                </ul>
+                
+
+            </div>
+        </div>
+        <!-- main content -->
+        <div class="main-content">
+            <h2>Избранное</h2>
+            <div id="content-wrapper"></div>
+        </div>
+    </div>
+
+    <script src="./src/js/script.js"></script>
+</body>
+</html>

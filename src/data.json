@@ -1,0 +1,132 @@
+[
+    {
+        "id": 0,
+        "title": "Название сериала",
+        "picture": "/src/img/image.jpg",
+        "desc": {
+            "seasons": 4,
+            "series": 7,
+            "likes": 16,
+            "dislikes": 35
+        },
+        "KP": 10,
+        "IMDb": 9
+    },
+    {
+        "id": 1,
+        "title": "Название сериала",
+        "picture": "/src/img/image.jpg",
+        "desc": {
+            "seasons": 2,
+            "series": 8,
+            "likes": 2,
+            "dislikes": 16
+        },
+        "KP": 10,
+        "IMDb": 10
+    },
+    {
+        "id": 2,
+        "title": "Название сериала",
+        "picture": "/src/img/image.jpg",
+        "desc": {
+            "seasons": 3,
+            "series": 6,
+            "likes": 43,
+            "dislikes": 25
+        },
+        "KP": 9,
+        "IMDb": 5
+    },
+    {
+        "id": 3,
+        "title": "Название сериала",
+        "picture": "/src/img/image.jpg",
+        "desc": {
+            "seasons": 3,
+            "series": 7,
+            "likes": 30,
+            "dislikes": 6
+        },
+        "KP": 5,
+        "IMDb": 9
+    },
+    {
+        "id": 4,
+        "title": "Название сериала",
+        "picture": "/src/img/image.jpg",
+        "desc": {
+            "seasons": 4,
+            "series": 5,
+            "likes": 25,
+            "dislikes": 8
+        },
+        "KP": 7,
+        "IMDb": 7
+    },
+    {
+        "id": 5,
+        "title": "Название сериала",
+        "picture": "/src/img/image.jpg",
+        "desc": {
+            "seasons": 2,
+            "series": 7,
+            "likes": 29,
+            "dislikes": 48
+        },
+        "KP": 10,
+        "IMDb": 5
+    },
+    {
+        "id": 6,
+        "title": "Название сериала",
+        "picture": "/src/img/image.jpg",
+        "desc": {
+            "seasons": 5,
+            "series": 7,
+            "likes": 24,
+            "dislikes": 33
+        },
+        "KP": 10,
+        "IMDb": 6
+    },
+    {
+        "id": 7,
+        "title": "Название сериала",
+        "picture": "/src/img/image.jpg",
+        "desc": {
+            "seasons": 5,
+            "series": 8,
+            "likes": 21,
+            "dislikes": 31
+        },
+        "KP": 6,
+        "IMDb": 6
+    },
+    {
+        "id": 8,
+        "title": "Название сериала",
+        "picture": "/src/img/image.jpg",
+        "desc": {
+            "seasons": 2,
+            "series": 8,
+            "likes": 6,
+            "dislikes": 26
+        },
+        "KP": 9,
+        "IMDb": 6
+    },
+    {
+        "id": 9,
+        "title": "Название сериала",
+        "picture": "/src/img/image.jpg",
+        "desc": {
+            "seasons": 4,
+            "series": 7,
+            "likes": 49,
+            "dislikes": 13
+        },
+        "KP": 9,
+        "IMDb": 7
+    }
+]

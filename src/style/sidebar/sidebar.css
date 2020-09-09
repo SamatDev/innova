@@ -1,0 +1,92 @@
+.sidebar {
+  width: 20%;
+  min-width: 250px;
+  padding: 1rem;
+}
+
+.parent-menu {
+  width: -webkit-max-content;
+  width: -moz-max-content;
+  width: max-content;
+}
+
+.parent-menu li {
+  font-size: 20px;
+}
+
+.parent-menu li a {
+  color: #fff;
+  width: -webkit-max-content;
+  width: -moz-max-content;
+  width: max-content;
+  position: relative;
+}
+
+.parent-menu li a::before {
+  content: '';
+  background: url("/src/img/left.svg");
+  background-position: center center;
+  position: absolute;
+  top: 8px;
+  right: -1.2rem;
+  z-index: 10;
+  width: 16px;
+  height: 16px;
+  -webkit-transition: .3s ease;
+  transition: .3s ease;
+}
+
+.parent-menu li a::after {
+  content: '';
+  background: rgba(255, 0, 0, 0);
+  position: absolute;
+  left: -1rem;
+  width: 3px;
+  height: 24px;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+          transform: translateY(-50%);
+  -webkit-transition: .3s ease;
+  transition: .3s ease;
+}
+
+.parent-menu li.active a::after {
+  background: red;
+}
+
+.parent-menu li.active > .child-menu {
+  display: block !important;
+}
+
+.parent-menu li.active a::before {
+  -webkit-transform: rotate(-90deg);
+          transform: rotate(-90deg);
+}
+
+.child-menu {
+  display: none;
+  margin-left: 1rem;
+  color: gray;
+}
+
+.child-menu li {
+  cursor: pointer;
+  width: -webkit-max-content;
+  width: -moz-max-content;
+  width: max-content;
+  padding: 0 1rem;
+  font-size: 16px;
+  -webkit-transition: .3s ease;
+  transition: .3s ease;
+}
+
+.child-menu li:hover {
+  color: #fff;
+}
+
+.child-menu li.active {
+  color: #fff;
+  background: #b9b9b942;
+  border-radius: 20px;
+}
+/*# sourceMappingURL=sidebar.css.map */

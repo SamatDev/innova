@@ -17,7 +17,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const dataWrap = document.querySelector('#content-wrapper');
 
     (function () {
-        fetch('/innova/innova/src/data.json')
+        fetch('/innova/src/data.json')
             .then(async response => {
                 const data = await response.json()
 
